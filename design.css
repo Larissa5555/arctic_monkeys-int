@@ -1,0 +1,56 @@
+html {
+    background-color: rgb(42, 29, 116);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a{color: rgb(200, 156, 241);
+margin-left: 40px;
+padding: 10px;}
+p{color: rgb(219,217,188);
+margin-left: 50px;
+margin-right: 50%;}
+
+ul{background-color:  rgba(205, 59, 218, 0.103); margin-right: 58%;
+margin-left: 50px;}
+
+li .list{ list-style: upper-roman;
+
+}
+li{color: rgb(219,217,188);
+    margin-left: 30px;
+    padding: 8px;
+    list-style: -o-linear-gradient();
+    
+
+}
+table{color: rgb(219,217,188);
+margin-left: 50px;border: darkslateblue;
+}
+
+th{background-color: rgba(203, 20, 220, 0.37);
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+
+td{
+ border: 5px rgba(205, 59, 218, 0.103);
+ border-bottom:2px rgba(27, 3, 29, 0.37);
+ border-spacing: 5;
+   background-color: rgba(205, 59, 218, 0.103);
+    padding-left: 50px;
+    padding-right: 50px;
+}
+h1{color: rgb(200, 156, 241);
+margin-left: 50px;
+margin-top: 50px;
+font-size: 70px;
+}
+h2{color: rgb(243, 174, 243);
+margin-left: 50px;
+font-size: 30px;}
+h3{color: rgb(219,217,188);
+margin-left: 50px;}
+img{margin-left: 50px;}
